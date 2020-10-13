@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Scripts ProyectoFacturacion">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-RB5KS42\SQLEXPRESS:juan">
+          <Created>2020-04-14T20:03:40.5817005-05:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-RB5KS42\SQLEXPRESS</Server>
+          <UserName>juan</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB>prueba</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="procArticulo.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RB5KS42\SQLEXPRESS:False:juan</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RB5KS42\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>juan</AssociatedConnUserName>
+          <FullPath>procArticulo.sql</FullPath>
+        </FileNode>
+        <FileNode Name="procCategoria.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RB5KS42\SQLEXPRESS:False:juan</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RB5KS42\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>juan</AssociatedConnUserName>
+          <FullPath>procCategoria.sql</FullPath>
+        </FileNode>
+        <FileNode Name="procIngreso.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RB5KS42\SQLEXPRESS:False:juan</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RB5KS42\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>juan</AssociatedConnUserName>
+          <FullPath>procIngreso.sql</FullPath>
+        </FileNode>
+        <FileNode Name="procPersona.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RB5KS42\SQLEXPRESS:False:juan</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RB5KS42\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>juan</AssociatedConnUserName>
+          <FullPath>procPersona.sql</FullPath>
+        </FileNode>
+        <FileNode Name="procUsuario.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RB5KS42\SQLEXPRESS:False:juan</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RB5KS42\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>juan</AssociatedConnUserName>
+          <FullPath>procUsuario.sql</FullPath>
+        </FileNode>
+        <FileNode Name="procVentas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RB5KS42\SQLEXPRESS:False:juan</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RB5KS42\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>juan</AssociatedConnUserName>
+          <FullPath>C:\Users\USUARIO\Desktop\Programas y utilidades para desarrollo\Facturacion\Scripts ProyectoFacturacion\procVentas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Roles.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RB5KS42\SQLEXPRESS:False:juan</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RB5KS42\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>juan</AssociatedConnUserName>
+          <FullPath>Roles.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TablasProyecto.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RB5KS42\SQLEXPRESS:False:juan</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RB5KS42\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>juan</AssociatedConnUserName>
+          <FullPath>TablasProyecto.sql</FullPath>
+        </FileNode>
+        <FileNode Name="triggerIngreso.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RB5KS42\SQLEXPRESS:False:juan</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RB5KS42\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>juan</AssociatedConnUserName>
+          <FullPath>triggerIngreso.sql</FullPath>
+        </FileNode>
+        <FileNode Name="triggerVenta.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RB5KS42\SQLEXPRESS:False:juan</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RB5KS42\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>juan</AssociatedConnUserName>
+          <FullPath>triggerVenta.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
